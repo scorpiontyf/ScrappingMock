@@ -17,6 +17,7 @@ namespace ScrappingMock
         public string Genero { get; set; } = "";
         public string Categoria { get; set; } = "";
         public string Inscricao { get; set; } = "";
+
     }
     public class Program
     {
